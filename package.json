@@ -1,0 +1,33 @@
+{
+    "name": "betu-light-theme",
+    "displayName": "betu-light-theme",
+    "description": "a simple light theme",
+    "version": "0.0.1",
+    "publisher": "Betu55",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/betu55/BetusThemes.git"
+    },
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Light theme",
+        "Betu55",
+        "BetusTheme",
+        "Light"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "betu-light",
+                "uiTheme": "vs",
+                "path": "./themes/betu-light-color-theme.json"
+            }
+        ]
+    }
+}
