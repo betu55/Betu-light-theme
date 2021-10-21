@@ -6,7 +6,7 @@
     "publisher": "Betu55",
     "repository": {
         "type": "git",
-        "url": "https://github.com/betu55/BetusThemes.git"
+        "url": "https://github.com/betu55/Betu-light-theme.git"
     },
     "engines": {
         "vscode": "^1.61.0"
@@ -14,6 +14,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon/Blight.png",
     "keywords": [
         "Themes",
         "Light theme",
