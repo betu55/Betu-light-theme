@@ -1,6 +1,6 @@
 # README
 
-this is a light theme developed for people who love simplicity.
+This is a light theme developed for people who love simplicity.
 
 Example
 
